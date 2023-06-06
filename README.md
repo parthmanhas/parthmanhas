@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Parth Manhas, a Frontend Developer looking out for next adventure !!!
+I am Parth Manhas, a Frontend Developer looking out for next adventure (next job)!!!
 
 [![wakatime](https://wakatime.com/badge/user/751d4b7f-7744-45f6-8f72-b5268bffaa25.svg)](https://wakatime.com/@751d4b7f-7744-45f6-8f72-b5268bffaa25)
 - 🔭 I’m currently working on gaining expertise in frontend domain
